@@ -1,0 +1,4 @@
+#+TITLE: node-inspect-gud
+#+AUTHOR: Noodles!
+
+Basic GUD support for node inspect
